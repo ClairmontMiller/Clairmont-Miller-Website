@@ -15,3 +15,7 @@
 //= require bootstrap
 //= require turbolinks
 //= require_tree .
+
+//jQuery(document).ready(function($) {
+//	$('.navbar').css('background','lime');
+//});
