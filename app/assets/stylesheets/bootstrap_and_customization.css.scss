@@ -1,7 +1,7 @@
-$body-bg-image: url('http://i.imgur.com/4ennVZ2.gifv');
-$navbar-default-bg:    #34495e;
-$navbar-default-link-color:  #27ae60;
-$jumbotron-bg: #7f8c8d;
+$background-image: url(http://i.imgur.com/4ennVZ2.gifv);
+$navbar-default-bg:    #eee;
+$navbar-default-link-color:  #333;
+
 
 @import 'bootstrap';
 
@@ -12,3 +12,4 @@ $jumbotron-bg: #7f8c8d;
 .navbar-brand {
      font-weight: bold;
 }
+
